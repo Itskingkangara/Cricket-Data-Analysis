@@ -53,8 +53,8 @@ This project is a strong addition to any data science or data analytics resume, 
 This project provides valuable insights into cricket analytics using a structured data-driven approach. It is an excellent demonstration of data analytics and visualization skills for anyone looking to enhance their resume.  
 
 ## ✍️ Author  
-**Abhinav**   
-🔗 **https://www.linkedin.com/in/abhinav-mishra1/**
+**HARSHIT GUPTA**   
+🔗 **https://www.linkedin.com/in/harshgupta122/**
 
 
 
